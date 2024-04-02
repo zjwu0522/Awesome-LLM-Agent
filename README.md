@@ -70,7 +70,6 @@ Welcome to our comprehensive collection on LLM-based agents, with an emphasis on
 - *(ICLR'2024)* Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph [[Paper](https://arxiv.org/abs/2307.07697)] [[GitHub](https://github.com/IDEA-FinAI/ToG)]
 - *(ICLR'2024)* Thought Propagation: An Analogical Approach to Complex Reasoning with Large Language Models [[Paper](https://arxiv.org/abs/2310.03965)] [[GitHub](https://github.com/Samyu0304/thought-propagation)]
 - *(arXiv 2024.01)* Topologies of Reasoning: Demystifying Chains, Trees, and Graphs of Thoughts [[Paper](https://arxiv.org/abs/2401.14295)]
-- [[GitHub]()]
 
 ### Memory and Retrieval Augmented Generation ⚙️
 
