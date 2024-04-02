@@ -24,6 +24,7 @@ Welcome to our comprehensive collection on LLM-based agents, with an emphasis on
 - [Open-Source Projects](#open-source-projects)
   - [LLM Platform](#llm-platform)
   - [Multi-Agent Framework](#multi-agent-framework)
+  - [Vector Database](#vector-database)
 
 ## Papers
 
@@ -163,3 +164,11 @@ Welcome to our comprehensive collection on LLM-based agents, with an emphasis on
 |    CAMEL🐫     | [camel-ai/camel](https://github.com/camel-ai/camel) ![GitHub stars](https://img.shields.io/github/stars/camel-ai/camel) | 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society |
 |    AutoGen    | [microsoft/autogen](https://github.com/microsoft/autogen) ![GitHub stars](https://img.shields.io/github/stars/microsoft/autogen) |           A programming framework for agentic AI.            |
 | 🤖 AgentVerse🪐 | [OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse) ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/AgentVerse) | 🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation |
+
+### Vector Database
+
+| Title  |                             Link                             |                         Description                          |
+| :----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| Chroma | [chroma-core/chroma](https://github.com/chroma-core/chroma) ![GitHub stars](https://img.shields.io/github/stars/chroma-core/chroma) |         the AI-native open-source embedding database         |
+| Faiss  | [facebookresearch/faiss](https://github.com/facebookresearch/faiss)![GitHub stars](https://img.shields.io/github/stars/facebookresearch/faiss) | A library for efficient similarity search and clustering of dense vectors. |
+
