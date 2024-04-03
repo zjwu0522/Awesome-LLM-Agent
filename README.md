@@ -126,6 +126,7 @@ Welcome to our comprehensive collection on LLM-based agents, with an emphasis on
 
 #### Paper Review Agents
 
+- *(arXiv 2023.10)* Can large language models provide useful feedback on research papers? A large-scale empirical analysis [[Paper](https://arxiv.org/abs/2310.01783)] [[GitHub](https://github.com/Weixin-Liang/LLM-scientific-feedback)]
 - *(arXiv 2024.01)* MARG: Multi-Agent Review Generation for Scientific Papers [[Paper](https://arxiv.org/abs/2401.04259)] [[GitHub](https://github.com/allenai/marg-reviewer)]
 - *(arXiv 2024.02)* Reviewer2: Optimizing Review Generation Through Prompt Generation [[Paper](https://arxiv.org/abs/2402.10886)] [[GitHub](https://github.com/ZhaolinGao/Reviewer2)]
 
