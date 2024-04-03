@@ -156,6 +156,7 @@ Welcome to our comprehensive collection on LLM-based agents, with an emphasis on
 | 🗂️ LlamaIndex 🦙 | [run-llama/llama_index](https://github.com/run-llama/llama_index) ![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index) |   LlamaIndex is a data framework for your LLM applications   |
 | LLaMA-Factory  | [hiyouga/Llama-Factory](https://github.com/hiyouga/LLaMA-Factory) ![GitHub stars](https://img.shields.io/github/stars/hiyouga/Llama-Factory) |           Unify Efficient Fine-Tuning of 100+ LLMs           |
 |    Petals🌸     | [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) ![GitHub stars](https://img.shields.io/github/stars/bigscience-workshop/petals) | 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading |
+| Open-Assistant | [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) ![GitHub stars](https://img.shields.io/github/stars/LAION-AI/Open-Assistant) | OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. |
 
 ### Multi-Agent Framework
 
