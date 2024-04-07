@@ -102,6 +102,8 @@ Welcome to our comprehensive collection on LLM-based agents, with an emphasis on
 
 - *(arXiv 2024.03)* Agent Lumos: Unified and Modular Training for Open-Source Language Agents [[Paper](https://arxiv.org/abs/2311.05657)] [[GitHub](https://github.com/allenai/lumos)] [[Website](https://allenai.github.io/lumos/)]
 
+- *(arXiv 2024.03)* Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models [[Paper](https://arxiv.org/abs/2403.12881v1)] [[GitHub](https://github.com/InternLM/Agent-FLAN)] [[Website](https://internlm.github.io/Agent-FLAN/)]
+
 ### LLM Fine-Tuning 🧠
 
 - 🚀 *(NeurIPS'2022)* Training language models to follow instructions with human feedback [[Paper](https://arxiv.org/abs/2203.02155)] [[GitHub](https://github.com/openai/following-instructions-human-feedback)]
