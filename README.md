@@ -56,6 +56,7 @@ Welcome to our comprehensive collection on LLM-based agents, with an emphasis on
 - *(arXiv 2023.10)* Benchmarking Large Language Models As AI Research Agents [[Paper](https://arxiv.org/abs/2310.03302)] [[Github](https://github.com/snap-stanford/MLAgentBench)]
 - *(arXiv 2023.12)* T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step [[Paper](https://arxiv.org/abs/2312.14033)] [[GitHub](https://github.com/open-compass/T-Eval?tab=readme-ov-file)] [[Website](https://open-compass.github.io/T-Eval/)]
 - *(arXiv 2024.01)* VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks [[Paper](https://arxiv.org/abs/2401.13649)] [[GitHub](https://github.com/web-arena-x/visualwebarena)] [[Website](https://jykoh.com/vwa)]
+- *(arXiv 2024.04)* AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent [[Paper](https://arxiv.org/abs/2404.03648)] [[GitHub](https://github.com/THUDM/AutoWebGLM)]
 
 ### Reasoning and Prompt Engineering 💡
 
@@ -70,6 +71,7 @@ Welcome to our comprehensive collection on LLM-based agents, with an emphasis on
 - *(ICLR'2024)* Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph [[Paper](https://arxiv.org/abs/2307.07697)] [[GitHub](https://github.com/IDEA-FinAI/ToG)]
 - *(ICLR'2024)* Thought Propagation: An Analogical Approach to Complex Reasoning with Large Language Models [[Paper](https://arxiv.org/abs/2310.03965)] [[GitHub](https://github.com/Samyu0304/thought-propagation)]
 - *(arXiv 2024.01)* Topologies of Reasoning: Demystifying Chains, Trees, and Graphs of Thoughts [[Paper](https://arxiv.org/abs/2401.14295)]
+- *(arXiv 2024.01)* Self-Rewarding Language Models [[Paper](https://arxiv.org/abs/2401.10020)]
 
 ### Memory and Retrieval Augmented Generation ⚙️
 
