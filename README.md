@@ -149,6 +149,8 @@ Welcome to our comprehensive collection on LLM-based agents, with an emphasis on
 
 - 🔥 *(ICLR'2024)* ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving [[Paper](https://arxiv.org/abs/2309.17452)] [[GitHub](https://github.com/microsoft/ToRA)]
 
+- *(arXiv 2023.04)* Octopus v2: On-device language model for super agent [[Paper](https://arxiv.org/abs/2404.01744v1)]
+
   
 
 ## Open-Source Projects
