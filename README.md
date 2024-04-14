@@ -41,6 +41,7 @@ Welcome to our comprehensive collection on LLM-based agents, with an emphasis on
 - *(arXiv 2024.01)* Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security [[Paper](https://arxiv.org/abs/2401.05459)] [[GitHub](https://github.com/MobileLLM/Personal_LLM_Agents_Survey)]
 - *(arXiv 2024.01)* Large Language Model based Multi-Agents: A Survey of Progress and Challenges [[Paper](https://arxiv.org/abs/2402.01680)] [[GitHub](https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers)]
 - 🔥 *(TMLR'2024)* Cognitive Architectures for Language Agents [[Paper]()] [[GitHub](https://github.com/ysymyth/awesome-language-agents)]
+- *(arXiv 2024.01)* Agent AI: Surveying the Horizons of Multimodal Interaction [[Paper](https://arxiv.org/abs/2401.03568)]
 
 ### Benchmark 📈
 
