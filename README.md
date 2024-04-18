@@ -85,7 +85,8 @@ Welcome to our comprehensive collection on LLM-based agents, with an emphasis on
 - 🔥 *(ICLR'2024)* Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection [[Paper](https://arxiv.org/abs/2310.11511)] [[GitHub](https://github.com/AkariAsai/self-rag)] [[Website](https://selfrag.github.io/)]
 - *(NAACL'2024)* REST: Retrieval-Based Speculative Decoding [[Paper](https://arxiv.org/abs/2311.08252)] [[GitHub](https://github.com/FasterDecoding/REST)]
 - *(arXiv 2023.11)* Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models [[Paper](https://arxiv.org/abs/2311.09210)]
-- *(arXiv 2023.03)* RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation [[Paper](https://arxiv.org/abs/2403.05313)] [[GitHub](https://github.com/CraftJarvis/RAT)] [[Website](https://craftjarvis-jarvis.github.io/RAT)] [[Demo](https://huggingface.co/spaces/jeasinema/RAT)]
+- *(arXiv 2024.03)* RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation [[Paper](https://arxiv.org/abs/2403.05313)] [[GitHub](https://github.com/CraftJarvis/RAT)] [[Website](https://craftjarvis-jarvis.github.io/RAT)] [[Demo](https://huggingface.co/spaces/jeasinema/RAT)]
+- *(arXiv 2024.04)* Introducing Super RAGs in Mistral 8x7B-v1 [[Paper](https://arxiv.org/abs/2404.08940)]
 
 ### Action and Tool Using 🛠️
 
