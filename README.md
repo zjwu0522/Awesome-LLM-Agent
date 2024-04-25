@@ -59,6 +59,7 @@ Welcome to our comprehensive collection on LLM-based agents, with an emphasis on
 - *(arXiv 2024.01)* VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks [[Paper](https://arxiv.org/abs/2401.13649)] [[GitHub](https://github.com/web-arena-x/visualwebarena)] [[Website](https://jykoh.com/vwa)]
 - *(arXiv 2024.03)* DevBench: A Comprehensive Benchmark for Software Development [[Paper](https://arxiv.org/abs/2403.08604)] [[GitHub](https://github.com/open-compass/DevBench)]
 - *(arXiv 2024.04)* AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent [[Paper](https://arxiv.org/abs/2404.03648)] [[GitHub](https://github.com/THUDM/AutoWebGLM)]
+- *(arXiv 2024.04)* STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases [[Paper](https://arxiv.org/abs/2404.13207)] [[GitHub](https://github.com/snap-stanford/stark)]
 
 ### Reasoning and Prompt Engineering 💡
 
@@ -86,6 +87,7 @@ Welcome to our comprehensive collection on LLM-based agents, with an emphasis on
 - 🔥 *(ICLR'2024)* Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection [[Paper](https://arxiv.org/abs/2310.11511)] [[GitHub](https://github.com/AkariAsai/self-rag)] [[Website](https://selfrag.github.io/)]
 - *(NAACL'2024)* REST: Retrieval-Based Speculative Decoding [[Paper](https://arxiv.org/abs/2311.08252)] [[GitHub](https://github.com/FasterDecoding/REST)]
 - *(arXiv 2023.11)* Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models [[Paper](https://arxiv.org/abs/2311.09210)]
+- *(arXiv 2024.02)* G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering [[Paper](https://arxiv.org/abs/2402.07630)] [[GitHub](https://github.com/XiaoxinHe/G-Retriever)]
 - *(arXiv 2024.03)* RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation [[Paper](https://arxiv.org/abs/2403.05313)] [[GitHub](https://github.com/CraftJarvis/RAT)] [[Website](https://craftjarvis-jarvis.github.io/RAT)] [[Demo](https://huggingface.co/spaces/jeasinema/RAT)]
 - *(arXiv 2024.04)* Introducing Super RAGs in Mistral 8x7B-v1 [[Paper](https://arxiv.org/abs/2404.08940)]
 
