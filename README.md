@@ -18,6 +18,7 @@ Welcome to our comprehensive collection on LLM-based agents, with an emphasis on
   - [Applications](#applications-)
     - [Web Agents](#web-agents)
     - [Recommender Agents](#recommender-agents)
+    - [Code Agents](#code-agents)
     - [Paper Review Agents](#paper-review-agents)
     - [Trading Agents](#trading-agents)
     - [Others](#others)
@@ -53,7 +54,6 @@ Welcome to our comprehensive collection on LLM-based agents, with an emphasis on
 - *(arXiv 2023.09)* Benchmarking Large Language Models in Retrieval-Augmented Generation [[Paper](https://arxiv.org/abs/2309.01431)] [[GitHub](https://github.com/chen700564/RGB)]
 - 🔥 *(ICLR'2024)* WebArena: A Realistic Web Environment for Building Autonomous Agents [[Paper](https://arxiv.org/abs/2307.13854)] [[GitHub](https://github.com/web-arena-x/webarena)] [[Website](https://webarena.dev/)]
 - 🚀 *(ICLR'2024)* AgentBench: Evaluating LLMs as Agents [[Paper](https://arxiv.org/abs/2308.03688)] [[Github](https://github.com/THUDM/AgentBench)] [[Website](https://llmbench.ai/agent)]
-- 🔥 *(ICLR'2024)* SWE-bench: Can Language Models Resolve Real-World Github Issues? [[Paper](https://arxiv.org/abs/2310.06770)] [[GitHub](https://github.com/princeton-nlp/SWE-bench)] [[Website](https://www.swebench.com/)]
 - *(arXiv 2023.10)* Benchmarking Large Language Models As AI Research Agents [[Paper](https://arxiv.org/abs/2310.03302)] [[Github](https://github.com/snap-stanford/MLAgentBench)]
 - *(arXiv 2023.12)* T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step [[Paper](https://arxiv.org/abs/2312.14033)] [[GitHub](https://github.com/open-compass/T-Eval?tab=readme-ov-file)] [[Website](https://open-compass.github.io/T-Eval/)]
 - *(arXiv 2024.01)* VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks [[Paper](https://arxiv.org/abs/2401.13649)] [[GitHub](https://github.com/web-arena-x/visualwebarena)] [[Website](https://jykoh.com/vwa)]
@@ -133,6 +133,11 @@ Welcome to our comprehensive collection on LLM-based agents, with an emphasis on
 - *(arXiv 2023.08)* RecMind: Large Language Model Powered Agent For Recommendation [[Paper](https://arxiv.org/abs/2308.14296)]
 - *(arXiv 2023.10)* On Generative Agents in Recommendation [[paper](https://arxiv.org/abs/2310.10108)] [[GitHub](https://github.com/LehengTHU/Agent4Rec)]
 - *(arXiv 2023.10)* AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems [[Paper](https://arxiv.org/abs/2310.09233)]
+
+#### Code Agents
+
+- 🔥 *(ICLR'2024)* SWE-bench: Can Language Models Resolve Real-World Github Issues? [[Paper](https://arxiv.org/abs/2310.06770)] [[GitHub](https://github.com/princeton-nlp/SWE-bench)] [[Website](https://www.swebench.com/)]
+- 🚀 *(arXiv 2024.04)* AutoCodeRover: Autonomous Program Improvement [[Paper](https://arxiv.org/abs/2404.05427)] [[GitHub](https://github.com/nus-apr/auto-code-rover)]
 
 #### Paper Review Agents
 
