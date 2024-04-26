@@ -126,11 +126,11 @@ Welcome to our comprehensive collection on LLM-based agents, with an emphasis on
 - 🔥 *(NeurIPS'2023)* Mind2Web: Towards a Generalist Agent for the Web [[Paper](https://arxiv.org/abs/2306.06070)] [[GitHub](https://github.com/OSU-NLP-Group/Mind2Web)]
 - *(NeurIPS'2023 workshops)* LASER: LLM Agent with State-Space Exploration for Web Navigation [[Paper](https://arxiv.org/abs/2309.08172)]
 - *(ICLR'2024)* A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis [[Paper](https://arxiv.org/abs/2307.12856)] [[GitHub]()]
+- 🔥 *(arXiv 2024.01)* GPT-4V(ision) is a Generalist Web Agent, if Grounded [[Paper](https://arxiv.org/abs/2401.01614)] [[Github](https://github.com/OSU-NLP-Group/SeeAct)] [[Website](https://osu-nlp-group.github.io/SeeAct/)]
 
 #### Recommender Agents
 
 - *(arXiv 2023.08)* RecMind: Large Language Model Powered Agent For Recommendation [[Paper](https://arxiv.org/abs/2308.14296)]
-
 - *(arXiv 2023.10)* On Generative Agents in Recommendation [[paper](https://arxiv.org/abs/2310.10108)] [[GitHub](https://github.com/LehengTHU/Agent4Rec)]
 - *(arXiv 2023.10)* AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems [[Paper](https://arxiv.org/abs/2310.09233)]
 
