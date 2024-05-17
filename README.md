@@ -69,7 +69,7 @@ Welcome to our comprehensive collection on LLM-based agents, with an emphasis on
 - 🔥 *(EMNLP'2023)* Reasoning with Language Model is Planning with World Model [[Paper](https://arxiv.org/abs/2305.14992)] [[GitHub](https://github.com/Ber666/llm-reasoners)]
 - 🚀 *(NeurIPS'2023)* Tree of Thoughts: Deliberate Problem Solving with Large Language Models [[Paper](https://arxiv.org/abs/2305.10601)] [[GitHub](https://github.com/princeton-nlp/tree-of-thought-llm)]
 - 🚀 *(NeurIPS'2023)* Reflexion: Language Agents with Verbal Reinforcement Learning [[Paper](https://arxiv.org/abs/2303.11366)] [[GitHub](https://github.com/noahshinn/reflexion)]
-- 🔥 *(NeurIPS'2023)* Self-Refine: Iterative Refinement with Self-Feedback [[Paper](https://arxiv.org/abs/2303.17651)] [[GitHub](https://github.com/madaan/self-refine)]
+- 🚀 *(NeurIPS'2023)* Self-Refine: Iterative Refinement with Self-Feedback [[Paper](https://arxiv.org/abs/2303.17651)] [[GitHub](https://github.com/madaan/self-refine)]
 - 🚀 *(arXiv 2023.08)* Graph of Thoughts: Solving Elaborate Problems with Large Language Models [[Paper]()] [[GitHub](https://github.com/spcl/graph-of-thoughts)]
 - *(ICLR'2024)* Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph [[Paper](https://arxiv.org/abs/2307.07697)] [[GitHub](https://github.com/IDEA-FinAI/ToG)]
 - *(ICLR'2024)* Thought Propagation: An Analogical Approach to Complex Reasoning with Large Language Models [[Paper](https://arxiv.org/abs/2310.03965)] [[GitHub](https://github.com/Samyu0304/thought-propagation)]
@@ -89,12 +89,14 @@ Welcome to our comprehensive collection on LLM-based agents, with an emphasis on
 - *(arXiv 2023.11)* Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models [[Paper](https://arxiv.org/abs/2311.09210)]
 - *(arXiv 2024.02)* G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering [[Paper](https://arxiv.org/abs/2402.07630)] [[GitHub](https://github.com/XiaoxinHe/G-Retriever)]
 - *(arXiv 2024.03)* RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation [[Paper](https://arxiv.org/abs/2403.05313)] [[GitHub](https://github.com/CraftJarvis/RAT)] [[Website](https://craftjarvis-jarvis.github.io/RAT)] [[Demo](https://huggingface.co/spaces/jeasinema/RAT)]
+- *(arXiv 2024.03)* RAFT: Adapting Language Model to Domain Specific RAG [[Paper](https://arxiv.org/abs/2403.10131)] [[GitHub](https://github.com/ShishirPatil/gorilla)] [[Website](https://gorilla.cs.berkeley.edu/)]
 - *(arXiv 2024.04)* Introducing Super RAGs in Mistral 8x7B-v1 [[Paper](https://arxiv.org/abs/2404.08940)]
 
 ### Action and Tool Using 🛠️
 
 - 🔥 *(CVPR'2023)* Visual Programming: Compositional visual reasoning without training [[Paper](https://arxiv.org/abs/2211.11559)] [[GitHub](https://github.com/allenai/visprog)]
 - 🚀 *(NeurIPS'2023)* Toolformer: Language Models Can Teach Themselves to Use Tools [[Paper](https://arxiv.org/abs/2302.04761)] [[GitHub](https://github.com/conceptofmind/toolformer)]
+- 🚀 *(arXiv 2023.05)* Gorilla: Large Language Model Connected with Massive APIs [[Paper](https://arxiv.org/abs/2305.15334)] [[GitHub](https://github.com/ShishirPatil/gorilla)] [[Website](https://gorilla.cs.berkeley.edu/)]
 - *(arXiv 2023.05)* ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings [[Paper](https://arxiv.org/abs/2305.11554)] [[GitHub](https://github.com/Ber666/ToolkenGPT)]
 
 - *(arXiv 2023.06)* ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases [[Paper](https://arxiv.org/abs/2306.05301)] [[GitHub](https://github.com/tangqiaoyu/ToolAlpaca)]
