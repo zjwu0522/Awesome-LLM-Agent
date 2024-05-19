@@ -163,6 +163,8 @@ Welcome to our comprehensive collection on LLM-based agents, with an emphasis on
 
 - *(arXiv 2023.04)* Octopus v2: On-device language model for super agent [[Paper](https://arxiv.org/abs/2404.01744v1)]
 
+- *(arXiv 2024.04)* Empowering Biomedical Discovery with AI Agents [[Paper](https://arxiv.org/abs/2404.02831)]
+
   
 
 ## Open-Source Projects
