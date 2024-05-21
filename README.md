@@ -140,6 +140,7 @@ Welcome to our comprehensive collection on LLM-based agents, with an emphasis on
 
 - 🔥 *(ICLR'2024)* SWE-bench: Can Language Models Resolve Real-World Github Issues? [[Paper](https://arxiv.org/abs/2310.06770)] [[GitHub](https://github.com/princeton-nlp/SWE-bench)] [[Website](https://www.swebench.com/)]
 - 🚀 *(arXiv 2024.04)* AutoCodeRover: Autonomous Program Improvement [[Paper](https://arxiv.org/abs/2404.05427)] [[GitHub](https://github.com/nus-apr/auto-code-rover)]
+- *(arXiv 2024.04)* Can Language Models Solve Olympiad Programming? [[Paper](https://arxiv.org/abs/2404.10952v1)] [[GitHub](https://princeton-nlp.github.io/USACOBench/)]
 
 #### Paper Review Agents
 
