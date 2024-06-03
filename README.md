@@ -70,6 +70,7 @@ Welcome to our comprehensive collection on LLM-based agents, with an emphasis on
 - 🚀 *(NeurIPS'2023)* Tree of Thoughts: Deliberate Problem Solving with Large Language Models [[Paper](https://arxiv.org/abs/2305.10601)] [[GitHub](https://github.com/princeton-nlp/tree-of-thought-llm)]
 - 🚀 *(NeurIPS'2023)* Reflexion: Language Agents with Verbal Reinforcement Learning [[Paper](https://arxiv.org/abs/2303.11366)] [[GitHub](https://github.com/noahshinn/reflexion)]
 - 🚀 *(NeurIPS'2023)* Self-Refine: Iterative Refinement with Self-Feedback [[Paper](https://arxiv.org/abs/2303.17651)] [[GitHub](https://github.com/madaan/self-refine)]
+- *(NeurIPS'2023)* Self-Evaluation Guided Beam Search for Reasoning [[Paper](https://arxiv.org/abs/2305.00633)] [[GitHub](https://github.com/YuxiXie/SelfEval-Guided-Decoding)] [[Website](https://guideddecoding.github.io/)]
 - 🚀 *(arXiv 2023.08)* Graph of Thoughts: Solving Elaborate Problems with Large Language Models [[Paper]()] [[GitHub](https://github.com/spcl/graph-of-thoughts)]
 - *(ICLR'2024)* Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph [[Paper](https://arxiv.org/abs/2307.07697)] [[GitHub](https://github.com/IDEA-FinAI/ToG)]
 - *(ICLR'2024)* Thought Propagation: An Analogical Approach to Complex Reasoning with Large Language Models [[Paper](https://arxiv.org/abs/2310.03965)] [[GitHub](https://github.com/Samyu0304/thought-propagation)]
